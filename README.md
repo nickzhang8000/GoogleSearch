@@ -4,7 +4,7 @@ press F5 to start the api, opening
 http://localhost:5000/swagger/index.html to see the swagger page.
 
 Frontend:
-npm snstall  then  npm start, page will automatically open http://localhost:8080/.
+npm install  then  npm start, page will automatically open http://localhost:8080/.
 
 For the Extension question1:
 
