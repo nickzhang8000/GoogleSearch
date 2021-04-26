@@ -4,7 +4,7 @@ press F5 to start the api, opening
 http://localhost:5000/swagger/index.html to see the swagger page.
 
 Frontend:
-npm install  then  npm start, page will automatically open http://localhost:8080/.
+npm install  then  npm start, page will automatically open http://localhost:8080/. And to test locally I also used the chrome CORS extension to enable the CORS visit otherwise wannings will occur when hitting the localhost API.
 
 For the Extension question1:
 
